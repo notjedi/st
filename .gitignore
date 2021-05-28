@@ -42,6 +42,10 @@
 *.idb
 *.pdb
 
+# patch file outputs
+*.orig
+*.rej
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
