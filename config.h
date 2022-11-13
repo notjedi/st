@@ -6,8 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "JetBrainsMono Nerd Font :pixelsize=14:antialias=true:autohint=true";
-static char *font2[] = { "JoyPixels:pixelsize=14:antialias=true:autohint=true" };
+static char *font = "Hasklug Nerd Font:pixelsize=14:antialias=true:autohint=true";
+static char *font2[] = { "Noto Color Emoji:pixelsize=14:antialias=true:autohint=true" };
+// static char *font = "Hasklug Nerd Font:pixelsize=14:antialias=true:autohint=true";
+// static char *font2[] = { "JoyPixels:pixelsize=12:antialias=true:autohint=true" };
 // static char *font2[] = { "Noto Color Emoji:pixelsize=14:antialias=true:autohint=true" };
 static int borderpx = 0;
 
